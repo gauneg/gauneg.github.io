@@ -14,8 +14,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    twitter: gaunegInsight
+    github:  gauneg
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
@@ -54,8 +54,8 @@ minima:
 # Build settings
 theme: minima
 
-minima:
-  skin: auto
+# minima:
+#   skin: auto
 
 plugins:
  - jekyll-feed
